@@ -25,23 +25,22 @@ The analysis of the election show that:
 ## Election-Audit Summary
 This script is able to retrieve data from csv files and conduct election analysis on the data. Further, specific modifications can be made to apply the script on any other election. 
 - 1. We may define a variable to store the file name which needs to be analyzed. The function of input() can be used to assign the file name to the subject variable. Any election data is able to be analyzed by this script.
-![inputcsv_1](https://github.com/hankai26/Election_Analysis/blob/main/Resources/inputcsv_1.png)
-
-![inputcsv_2](https://github.com/hankai26/Election_Analysis/blob/main/Resources/inputcsv_2.png)
+    ![inputcsv_1](https://github.com/hankai26/Election_Analysis/blob/main/Resources/inputcsv_1.png)
+    ![inputcsv_2](https://github.com/hankai26/Election_Analysis/blob/main/Resources/inputcsv_2.png)
 
 - 2. If the other election data file is located in another folder, the path should be also modified in the script.
-![csvfolder_1](https://github.com/hankai26/Election_Analysis/blob/main/Resources/csvfolder_1.png)
+    ![csvfolder_1](https://github.com/hankai26/Election_Analysis/blob/main/Resources/csvfolder_1.png)
 
-![csvfolder_2](https://github.com/hankai26/Election_Analysis/blob/main/Resources/csvfolder_2.png)
+    ![csvfolder_2](https://github.com/hankai26/Election_Analysis/blob/main/Resources/csvfolder_2.png)
 
 - 3. Similarly, the path of the file where to save the election result should be also revised allowing the user to input.
-![savefile_1](https://github.com/hankai26/Election_Analysis/blob/main/Resources/savefile_1.png)
+    ![savefile_1](https://github.com/hankai26/Election_Analysis/blob/main/Resources/savefile_1.png)
 
-![savefile_2](https://github.com/hankai26/Election_Analysis/blob/main/Resources/savefile_2.png)
+    ![savefile_2](https://github.com/hankai26/Election_Analysis/blob/main/Resources/savefile_2.png)
 
 - 4. Reviewing the print out information, we could also store the election type or location to a variable. The user should then be able to select the election location via input input() function, e.g. Federal, City, Local, etc.
-![area_1](https://github.com/hankai26/Election_Analysis/blob/main/Resources/area_1.png)
-![area_2](https://github.com/hankai26/Election_Analysis/blob/main/Resources/area_2.png)
-![area_3](https://github.com/hankai26/Election_Analysis/blob/main/Resources/area_3.png)
+    ![area_1](https://github.com/hankai26/Election_Analysis/blob/main/Resources/area_1.png)
+    ![area_2](https://github.com/hankai26/Election_Analysis/blob/main/Resources/area_2.png)
+    ![area_3](https://github.com/hankai26/Election_Analysis/blob/main/Resources/area_3.png)
 
 Including the modification options, this script should be able to apply to other election analysis allowing the user to select.
