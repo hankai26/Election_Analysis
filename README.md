@@ -30,12 +30,10 @@ This script is able to retrieve data from csv files and conduct election analysi
 
 - 2. If the other election data file is located in another folder, the path should be also modified in the script.
     ![csvfolder_1](https://github.com/hankai26/Election_Analysis/blob/main/Resources/csvfolder_1.png)
-
     ![csvfolder_2](https://github.com/hankai26/Election_Analysis/blob/main/Resources/csvfolder_2.png)
 
 - 3. Similarly, the path of the file where to save the election result should be also revised allowing the user to input.
     ![savefile_1](https://github.com/hankai26/Election_Analysis/blob/main/Resources/savefile_1.png)
-
     ![savefile_2](https://github.com/hankai26/Election_Analysis/blob/main/Resources/savefile_2.png)
 
 - 4. Reviewing the print out information, we could also store the election type or location to a variable. The user should then be able to select the election location via input input() function, e.g. Federal, City, Local, etc.
